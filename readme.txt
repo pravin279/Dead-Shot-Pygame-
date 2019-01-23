@@ -1,16 +1,4 @@
-
-
-     _        _                 _     _     
-    / \   ___| |_ ___ _ __ ___ (_) __| |___ 
-   / _ \ / __| __/ _ \ '__/ _ \| |/ _` / __|
-  / ___ \\__ \ ||  __/ | | (_) | | (_| \__ \
- /_/   \_\___/\__\___|_|  \___/|_|\__,_|___/
-                                            
-by Amin Bandali
-
-
 HOW TO PLAY
-===========
 
 To play the game, open a terminal (or command line window) and type:
 python game.py
